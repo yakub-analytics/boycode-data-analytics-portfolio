@@ -1,4 +1,3 @@
-
 # Data Analytics Portfolio | BoyCode Africa
 
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
@@ -414,11 +413,11 @@ I am committed to continuous learning, practical project development, and buildi
 ## Connect With Me
 
 - **GitHub:** [@yakub-analytics](https://github.com/yakub-analytics)
-- **LinkedIn:** [Connect with me on LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/yakub-dhikrullahi-18a645303?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/yakub-dhikrullahi-18a645303?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - **Portfolio Repository:** [BoyCode Data Analytics Portfolio](https://github.com/yakub-analytics/boycode-data-analytics-portfolio)
 
 ---
 
-*This repository represents an ongoing learning and project development journey. Projects, exercises, documentation, and technical competencies will continue to evolve as I gain more experience and work on additional analytical challenges.*
+*This repository represents a learning process and project development journey. Projects, exercises, documentation, and technical competencies will continue to evolve as I gain more experience and work on additional analytical challenges.*
 
 **Thank you for visiting my portfolio!**
