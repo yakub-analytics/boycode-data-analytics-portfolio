@@ -56,7 +56,7 @@ boycode-data-analytics-portfolio/
 │
 ├── POWER BI/
 │   ├── EXERCISE/
-│   └── [Capstone Project Files]
+│   └── [Power BI Project Files]
 │
 ├── SQL/
 │   └── [SQL Project Files]
